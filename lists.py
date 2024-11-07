@@ -1,5 +1,5 @@
 # Create a list of strings
-fruits = ["apple", "banana", "cherry","blueberry", "Avacado"]
+fruits = ["blueberry", "Avacado"]
 
 # Print the original list
 print("Original List:", fruits)
