@@ -1,5 +1,5 @@
 # Create a list of strings
-fruits = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry","blueberry", "Avacado"]
 
 # Print the original list
 print("Original List:", fruits)
@@ -25,10 +25,6 @@ print("List after removing 'banana':", fruits)
 # Sort: Sort the list in-place
 fruits.sort()
 print("Sorted List:", fruits)
-
-# Reverse: Reverse the list in-place
-fruits.reverse()
-print("Reversed List:", fruits)
 
 # Find the index of an element
 print("Index of 'cherry':", fruits.index("cherry"))
